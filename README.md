@@ -1,3 +1,13 @@
-#Hello World
+# IASC 2P02 | Alexander Jogie
 
-This is the read me file for my IASC 2P02 portfolio 
+## About me
+
+I am an Assistant Professor of Digital Prototyping at Brock University's Centre for Digital Humanities. This is my awesome portfolio site.
+
+<!-- [](imagez/manatees.jpg) -->
+
+## Blog post
+
+First sentence of blog post goes here... [continue reading](blog)
+
+I MADE A CHANGE. CHECK IT OUT.
