@@ -4,7 +4,7 @@
 
 I am an Interactive Arts and Science Student at Brock University's Centre for Digital Humanities. This is my awesome portfolio site.
 
-<iframe style='width: 500px; height: 300px;' src='pexels-photo-443446.jpeg'></iframe>
+<iframe style='width: 500px; height: 350px;' src='pexels-photo-443446.jpeg'></iframe>
 
 ## Blog post
 
