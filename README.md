@@ -4,8 +4,8 @@
 
 I am an Interactive Arts and Science Student at Brock University's Centre for Digital Humanities. This is my awesome portfolio site.
 
-<iframe style='width: 364px; height: 271px;' src='Uchiha-Clan-750x422.jpg'></iframe>
-(images/Uchiha-Clan-750x422.jpg)
+<iframe style='width: auto; height: auto;' src='Uchiha-Clan-750x422.jpg'></iframe>
+
 
 ## Blog post
 
